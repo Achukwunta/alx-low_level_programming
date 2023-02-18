@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main -C program that prints using a pus funcion
- * return - is always 0 means success
+ * main - C program that prints using a pus funcion
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
