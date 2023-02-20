@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio>
+#include <stdio.h>
 
 /**
  * main - C  program that prints all single digit number
