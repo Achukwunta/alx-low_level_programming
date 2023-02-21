@@ -3,13 +3,21 @@
 /**
  * print_alphabet_x10 - a function that prints 10x the alphabet
  * in lowercase, followed by a new line.
+ * Return: void
  */
 
 void print_alphabet_x10(void)
 {
-char letter;
+	char c;
+	int i = 0
 
-for (letter = 'a'; letter <= 'z'; letter++)
-_putchar(letter);
-_putchar('\n');
+		while (i <= 0)
+		{
+			for (c = 'a'; c <= 'z'; c++)
+			{
+				_putchar(c);
+				_putchar('\n');
+				i++;
+			}
+		}
 }
